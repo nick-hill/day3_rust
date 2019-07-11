@@ -1,0 +1,8 @@
+[package]
+name = "day3_rust"
+version = "0.1.0"
+authors = ["Nikhil Mishra <nikhil.mishra@knoldus.in>"]
+edition = "2018"
+
+[dependencies]
+text_io = "0.1.7"
