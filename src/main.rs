@@ -2,10 +2,11 @@
 extern crate text_io;
 
 //mod vectors;
-mod strings;
+//mod strings;
+mod hashmap;
 
 fn main() {
-
    // vectors :: vector();
-    strings :: string();
+   // strings :: string();
+    hashmap :: hash_map();
 }
